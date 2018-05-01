@@ -1,3 +1,5 @@
 var message = "hello world";
+let msg ="hello";
+const m1="world";
 
-console.log(message)
+console.log(m1)
